@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=B2C
+Comment=B2C P2P Cryptocurrency
+Comment[fr]=B2C, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=B2C, eşten eşe kriptografik sanal para birimi
+Exec=blackbearcoin-qt %u
+Terminal=false
+Type=Application
+Icon=blackbearcoin128
+MimeType=x-scheme-handler/blackbearcoin;
+Categories=Office;Finance;
