@@ -12,7 +12,7 @@ Black Bear Coin is an open source crypto-currency focused on fast transactions w
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>21,000,000 B2C</td></tr>
-<tr><td>Premine</td><td>12,000,000 B2C</td></tr>
+<tr><td>Premine</td><td>4,000,000 B2C</td></tr>
 </table>
 
 ### Reward Distribution
@@ -27,7 +27,7 @@ Black Bear Coin is an open source crypto-currency focused on fast transactions w
 
 <table>
 <th>Year</th><th>Block Height</th><th>Total Reward</th><th>PoS Reward</th><th>Masternode Reward</th>
-<tr><td>1-2</td><td>3-1051200</td><td>6 B2C</td><td>2 B2C</td><td>4 B2C</td></tr>
-<tr><td>3-4</td><td>1051201-2102400</td><td>3 B2C</td><td>1 B2C</td><td>2 B2C</td></tr>
-<tr><td>5+</td><td>2102401+</td><td>0 B2C</td><td>0 B2C</td><td>0 B2C</td></tr>
+<tr><td>1-2</td><td>3-125000</td><td>3 B2C</td><td>1 B2C</td><td>2 B2C</td></tr>
+<tr><td>3-4</td><td>12501-225000</td><td>2 B2C</td><td>1 B2C</td><td>1 B2C</td></tr>
+<tr><td>5+</td><td>22500+</td><td>1 B2C</td><td>0.5 B2C</td><td>0.5 B2C</td></tr>
 </table>
